@@ -1,4 +1,4 @@
 Flask==0.10.1
 requests==2.3.0
 Jinja2==2.7.3
-json
+Pandas==0.22.0

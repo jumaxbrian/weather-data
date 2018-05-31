@@ -9,4 +9,5 @@ To use the app
 1. Move into the directory you cloned into (default weather-data)
 1. Run `pip install -r requirements.txt`
 1. Run `python weather.py`
-1. Go the browser `localhost:5000`
+1. Go the browser `localhost:5000/load/` to load the results from the api to files
+1. Browse `localhost:5000/results/` to view the results
